@@ -1,0 +1,8 @@
+
+Welcome to Vimeo Automation!
+
+A project built with love by the Daystar Christian Center Tech team.
+
+To get started, Enter [ vimeo init ] and fill in your registered vimeo app credentials.
+
+Enter [ vimeo --help ] to get help.

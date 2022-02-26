@@ -1,0 +1,26 @@
+Welcome to Vimeo Automation!
+
+To get started, Enter :
+
+(1) [ vimeo init ] and fill in or modify your registered vimeo app credentials.
+
+(2) [ vimeo set path ] to set or modify the path directory to the video file.
+
+(3) [ vimeo upload -m ] and fill video title and description metadata to start an upload.
+
+(4) [ vimeo show cred ] to show credentials.
+
+=====================================================================
+
+NOTE: Entering a directory without including a filename will 
+
+return the most recent file for upload. 
+
+Entering the ABSOLUTE path and filename will return the exact file.
+
+=====================================================================
+
+NOTE: [ vimeo upload -m ] will return a <Response [200]> as an upload 
+
+confirmation.
+

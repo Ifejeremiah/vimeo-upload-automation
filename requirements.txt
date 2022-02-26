@@ -1,0 +1,11 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+future==0.18.2
+idna==3.3
+python-decouple==3.6      
+PyVimeo==1.1.0
+requests==2.27.1
+six==1.16.0
+tinydb==4.7.0
+tuspy==0.2.5
+urllib3==1.26.8
